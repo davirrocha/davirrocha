@@ -1,6 +1,6 @@
 <h1>SALVEE!!✌🏾</h1>
 
-<h2> Me chamo Davi, Sou programdor Front End e atualmente estou aprendendo e criando projetos com HTML, CSS E JS! </h2>
+<h2> Me chamo Davi, tenho 20 anos e atualmento estou em transição de carreira para area de Front-End  </h2>
 
 
 
