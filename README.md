@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">SALVEE!!✌🏾I'm Davi Rocha</h1>
+  <h1>SALVEE!!✌🏾I'm Davi Rocha</h1>
 </div>
 
 <br>
